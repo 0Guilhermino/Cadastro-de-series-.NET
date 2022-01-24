@@ -1,0 +1,16 @@
+C:\Users\GU1\Desktop\Proj_AppCadastro\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\GU1\Desktop\Proj_AppCadastro\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\GU1\Desktop\Proj_AppCadastro\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\GU1\Desktop\Proj_AppCadastro\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\GU1\Desktop\Proj_AppCadastro\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\GU1\Desktop\Proj_AppCadastro\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\GU1\Desktop\Proj_AppCadastro\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\GU1\Desktop\Proj_AppCadastro\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\GU1\Desktop\Proj_AppCadastro\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GU1\Desktop\Proj_AppCadastro\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\GU1\Desktop\Proj_AppCadastro\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\GU1\Desktop\Proj_AppCadastro\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\GU1\Desktop\Proj_AppCadastro\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\GU1\Desktop\Proj_AppCadastro\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\GU1\Desktop\Proj_AppCadastro\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\GU1\Desktop\Proj_AppCadastro\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
